@@ -1,4 +1,4 @@
-import random, base64, os
+import random
 from tkinter import Tk, N, E, S, W, StringVar, ttk, font, Button
 
 letters = ['B', 'I', 'N', 'G', 'O']
